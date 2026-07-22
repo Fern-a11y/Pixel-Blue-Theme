@@ -1,0 +1,26 @@
+{
+  "name": "Pixel Blue",
+  "author": "Rik",
+  "version": "1.0",
+  "description": "Clean blue pixel-inspired Discord theme.",
+  "theme_mode": "DARK",
+  "color_scheme": {
+    "background_gradient_start": "#101722",
+    "background_gradient_end": "#101722",
+
+    "card_gradient_start": "#182433",
+    "card_gradient_end": "#182433",
+
+    "tile_background": "#223247",
+
+    "text_primary": "#FFFFFF",
+    "text_secondary": "#AAB4C0",
+
+    "accent_gradient_start": "#5AA9FF",
+    "accent_gradient_end": "#5AA9FF",
+
+    "accent_glow": "#5AA9FF",
+
+    "divider": "#5AA9FF"
+  }
+}
