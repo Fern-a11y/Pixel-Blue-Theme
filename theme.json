@@ -3,21 +3,14 @@
   "author": "rik.msi",
   "version": "1.0",
   "description": "Clean blue pixel-inspired Discord theme.",
-  "theme": {
-    "mode": "dark",
-    "colors": {
-      "background": "#101722",
-      "background_secondary": "#182433",
-      "background_tertiary": "#223247",
-      "text": "#FFFFFF",
-      "text_secondary": "#AAB4C0",
-      "accent": "#5AA9FF",
-      "accent_hover": "#3B82F6",
-      "divider": "#5AA9FF"
-    },
-    "font": {
-      "name": "Pixelify Sans",
-      "url": "https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600;700&display=swap"
-    }
-  }
+  "dark": true,
+  "colors": {
+    "primary": "#101722",
+    "secondary": "#182433",
+    "tertiary": "#223247",
+    "text": "#FFFFFF",
+    "muted": "#AAB4C0",
+    "accent": "#5AA9FF"
+  },
+  "font": "Pixelify Sans"
 }
